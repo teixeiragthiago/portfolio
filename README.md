@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/teixeiragthiago/)) 
+[![author](https://img.shields.io/badge/author-teixeiragthiago-blue.svg)](https://www.linkedin.com/in/teixeiragthiago/)
 
 <p align="center">
   <img src="banner.jpg" >
