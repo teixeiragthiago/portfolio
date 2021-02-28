@@ -19,7 +19,12 @@ One of the goals I have established for this year was learning something new, an
 ## Projetos:
 Veja meus projetos de Data Science já publicados:
 
----
+* [Analisando dados do Airbnb do Rio de Janeiro]()
+
+* [Analisando dados do Airbrn de Los Angeles](https://github.com/teixeiragthiago/portfolio/blob/main/Analisando_os_Dados_do_Airbnb_(Los_Angeles).ipynb)
+
+[Analisando a violência do Rio de Janeiro](https://github.com/teixeiragthiago/portfolio/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+
 
 
 
