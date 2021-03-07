@@ -25,6 +25,7 @@ Veja meus projetos de Data Science já publicados:
 
 * [Analisando a violência do Rio de Janeiro](https://github.com/teixeiragthiago/portfolio/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
+* [Analisando a pandemia da Covid-19 na cidade de Franca/SP](https://github.com/teixeiragthiago/portfolio/blob/main/Analisando_os_dados_da_Covid_19_em_Franca.ipynb)
 
 
 
